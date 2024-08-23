@@ -1,9 +1,7 @@
 # Rock-Paper-Scissors Game
 
-This is a simple and fun Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. Challenge the computer and see if you can beat it!
+This is a simple and fun Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. Challenge the computer and see if you can beat it.
 
-![Rock-Paper-Scissors Game Screenshot](screenshot.png) 
-*(Include a screenshot of your game if possible)*
 
 ## Features
 
